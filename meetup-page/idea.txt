@@ -1,0 +1,9 @@
+I want to create a landing page that has a 3D model of a couple of friends meeting up together:
+
+the fake landing page is just promoting a meetup app where people can schedule their times that they are available and decide on what they want to do that day.
+
+eventually I want to do an actual app that way
+
+lets begin: 
+
+first: create basic html & css
